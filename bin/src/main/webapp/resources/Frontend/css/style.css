@@ -56,7 +56,7 @@ body{
 	margin: 0;
 	border-left:none;
 	cursor:pointer;
-	background:#94CB32;
+	background:#1da1f2;
 	font-weight: bold;
 }
 .search-bar input[type="submit"]:hover{
@@ -86,14 +86,14 @@ body{
 	font-weight: bold;
 }
 .header-top-nav ul li a:hover{
-	color:#94CB32;
+	color:#1da1f2;
 }
 .header-top-nav ul li a span{
 	color:#D70D87;
 }
 /*---top-header----*/
 .top-header{
-	background: #94CB32;
+	background: #1da1f2;
 	padding: 12px 0px;
 	margin-top: 16px;
 }
@@ -151,7 +151,7 @@ body{
 .images_1_of_3 {
 	width: 33%;
 	padding: 0px 0 1.1% 0;
-	background:#92AC05;
+	background:#1da1f2e3;
 	text-align:center;
 	box-shadow: 0px 3px 10px rgb(233, 233, 233);
 }
@@ -306,7 +306,7 @@ body{
 .images_1_of_4 a{
 		font-size:0.8em;
 		font-family: 'Open Sans', sans-serif;
-        color:#94CB32;
+        color:#1da1f2;
 }
 .images_1_of_4 a:hover{
 	color: #575757;
@@ -379,7 +379,7 @@ body{
 .content-sidebar li a:hover{
 	background: url(../images/sepHor.png) repeat-x left bottom;
 	background-color:#eee;
-	color:#94CB32;
+	color:#1da1f2;
 }
 /*---footer---*/
 /*  GRID OF FOUR   ============================================================================= */
@@ -434,7 +434,7 @@ body{
 	font-size:0.8em;
 }
 .span_1_of_4 ul li a:hover{
-	color:#94CB32;
+	color:#1da1f2;
 }
 .footer-secondgrid ul{
 	margin-top:10px;
@@ -488,7 +488,7 @@ body{
 	border:none;
 	font-size: 0.8em;
 	font-family: 'Open Sans', sans-serif;
-	color:#94CB32;
+	color:#1da1f2;
 	font-weight:bold;
 	text-transform:uppercase;
 	cursor:pointer;
@@ -515,7 +515,7 @@ body{
 	letter-spacing: -1px;
 }
 .about h5{
-	color:#94CB32;
+	color:#1da1f2;
 	font-family: 'Open Sans', sans-serif;
 	font-size:0.9em;
 }
@@ -534,7 +534,7 @@ body{
 	margin-top:10px;
 }
 .quites a span{
-	color:#94CB32;
+	color:#1da1f2;
 	text-transform:uppercase;
 }
 .about-frist li a{
@@ -546,7 +546,7 @@ body{
 	-webkit-transition: 0.5s ease;
 }
 .about-frist li a:hover{
-	color:#94CB32;
+	color:#1da1f2;
 }
 .about-frist ul li{
 	line-height: 1.5em;
@@ -748,7 +748,7 @@ body{
 	font-weight: bold;
 }
 .back-links ul li a:hover,.details-categories ul li a:hover,.active1 a{
-	color: #94CB32;
+	color: #1da1f2;
 }
 .back-links ul li img{
 	padding:0px 3px;
@@ -813,7 +813,7 @@ body{
 	padding-bottom:10px;
 }
 .active1  a{
-	color:#94CB32;
+	color:#1da1f2;
 	text-decoration:underline;
 }
 .brand-history{
@@ -856,7 +856,7 @@ body{
 	font-weight: bold;
 }
 .share ul li a:hover{
-	color:#94CB32;
+	color:#1da1f2;
 }
 .brand-history h3{
 	font-family: 'Open Sans', sans-serif;
@@ -869,7 +869,7 @@ body{
  	margin-top: 5%;
 }
 .menu_head {
-	background: #94CB32;
+	background: #1da1f2;
     color: white;
     cursor: pointer;
     font-family: arial;
@@ -996,7 +996,7 @@ body{
 	border: 1px solid #575757;
 	background:#575757;
 	text-decoration: none;
-	color: #94CB32;
+	color: #1da1f2;
 }
 .contact-form input[type="submit"]:active{
 	background-color:#F7503D;  
@@ -1094,7 +1094,7 @@ body{
 	}
 }
 .details-categories li span{
-	color:#94CB32;
+	color:#1da1f2;
 	text-decoration:underline;
 }
 .back-links ul li a{
@@ -1103,7 +1103,7 @@ body{
 /*----blog----*/
 .blog-grid-header h3,.blog-grid-header ul li a{
 	font-family: 'Open Sans', sans-serif;
-	color: #94CB32;
+	color: #1da1f2;
 	display: inline-block;
 	font-size: 0.88em;
 	padding: 7px 0px 0px 0px;
@@ -1128,7 +1128,7 @@ body{
 	color:#575757;
 }
 .blog-grid-header ul li a:hover{
-	color:#94CB32;
+	color:#1da1f2;
 }
 .blog-grid h4{
 	font-family: 'Open Sans', sans-serif;
@@ -1212,7 +1212,7 @@ body{
 		margin-left: 0px;
 }
 .span_2_of_3 .button a:hover{
-	    color:#94CB32;
+	    color:#1da1f2;
 }
 
 /***** Media Quries *****/
@@ -1283,7 +1283,7 @@ body{
 	margin-left: 0px;
 }
 .pagnation ul li a:hover{
-	color:#94CB32;
+	color:#1da1f2;
 }
 /*----error-page-----*/
 .error-page{
@@ -1314,7 +1314,7 @@ body{
 	font-weight: normal;
 }
 .copy-right a:hover{
-	color:#94CB32;
+	color:#1da1f2;
 }
 /*----responsive-layouts----*/
 @media screen and (max-width: 1366px) {
